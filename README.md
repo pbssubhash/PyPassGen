@@ -2,6 +2,12 @@ PyPassGen Python Password Generator
 =========================================================================
 
 Hey Friends, 
+Daily , I see so many developers missing to enforce good password policy,
+This Application can be used by normal users to generate strong password or the developers to integrate it in their web application :) 
+
+
+
+
 I strongly recommond ADMIN's using this because i see lot of admin:admin or password:password as login credentials ! 
 So sad, Giving the hacker a chance to hack your website using some lame security issue like BRUTEFORCE...
 
