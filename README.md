@@ -18,7 +18,7 @@ Usage Instructions :-
 On Windows :- 
 -------------
 1) Enter this on the command line :- PyPassGen.py
-2) It will ask you to enter the number of charectars you want in the password.
+2) It will ask you to enter the number of charecters you want in the password.
 3) After entering the desired number of charectars , press enter 
 4) You will see the generated password on the screen.
 
