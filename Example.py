@@ -1,7 +1,4 @@
-#!/usr/bin/python
-# Programmed by P.B.Surya.Subhash
-#Random program to test my skills ! :D
-#This will generate Random strong passwords for you ! :)
+#Example Code
 
 import random
 import pyperclip
